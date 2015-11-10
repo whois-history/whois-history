@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/whois-history
 echo "Pulling git..."
 git pull
 today=$(date +%Y-%m-%d)
