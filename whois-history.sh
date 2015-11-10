@@ -8,7 +8,7 @@ do
 	echo "Fetching "$line
 	mkdir -p domains/$line/$today
 	#whois $line
-	echo $(whois $line) > domains/$line/$today/whois.txt
+	echo "$(whois $line)" > domains/$line/$today/whois.txt
 	sleep 2s
 done < "list.txt"
 echo "Pushing git..."
