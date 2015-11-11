@@ -1,2 +1,9 @@
+github.com
+google.com
+huntersnk.com
+jhe.li
 lizhe.org
+rebornix.com
 sneezry.com
+snk.me
+three.sh
