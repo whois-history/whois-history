@@ -27,7 +27,7 @@ for detailed information.
    Creation Date: 09-oct-2007
    Expiration Date: 09-oct-2020
 
->>> Last update of whois database: Wed, 11 Nov 2015 03:59:52 GMT <<<
+>>> Last update of whois database: Wed, 11 Nov 2015 04:59:47 GMT <<<
 
 NOTICE: The expiration date displayed in this record is the date the 
 registrar's sponsorship of the domain name registration in the registry is 
@@ -118,13 +118,13 @@ Tech Phone Ext:
 Tech Fax: 
 Tech Fax Ext: 
 Tech Email: hostmaster@github.com
-Name Server: ns3.p16.dynect.net
-Name Server: ns4.p16.dynect.net
-Name Server: ns2.p16.dynect.net
 Name Server: ns1.p16.dynect.net
+Name Server: ns2.p16.dynect.net
+Name Server: ns4.p16.dynect.net
+Name Server: ns3.p16.dynect.net
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2015-11-10T19:50:52-0800 <<<
+>>> Last update of WHOIS database: 2015-11-10T21:00:09-0800 <<<
 
 The Data in MarkMonitor.com's WHOIS database is provided by MarkMonitor.com for
 information purposes, and to assist persons in obtaining information about or
@@ -149,4 +149,3 @@ Professional and Managed Services
 Visit MarkMonitor at http://www.markmonitor.com
 Contact us at +1.8007459229
 In Europe, at +44.02032062220
---

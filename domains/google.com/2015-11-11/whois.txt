@@ -298,7 +298,7 @@ Aborting search 50 records found .....
    Creation Date: 15-sep-1997
    Expiration Date: 14-sep-2020
 
->>> Last update of whois database: Wed, 11 Nov 2015 03:59:52 GMT <<<
+>>> Last update of whois database: Wed, 11 Nov 2015 04:59:47 GMT <<<
 
 For more information on Whois status codes, please visit
 https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
@@ -390,12 +390,12 @@ Tech Fax: +1.6506181499
 Tech Fax Ext: 
 Tech Email: dns-admin@google.com
 Name Server: ns3.google.com
-Name Server: ns1.google.com
 Name Server: ns4.google.com
+Name Server: ns1.google.com
 Name Server: ns2.google.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2015-11-10T19:51:14-0800 <<<
+>>> Last update of WHOIS database: 2015-11-10T20:52:04-0800 <<<
 
 The Data in MarkMonitor.com's WHOIS database is provided by MarkMonitor.com for
 information purposes, and to assist persons in obtaining information about or
