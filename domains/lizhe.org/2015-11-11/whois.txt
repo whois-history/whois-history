@@ -1,1 +1,65 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+Domain Name:LIZHE.ORG
+Domain ID: D161559464-LROR
+Creation Date: 2011-02-20T13:44:11Z
+Updated Date: 2015-01-28T00:20:19Z
+Registry Expiry Date: 2016-02-20T13:44:11Z
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Sponsoring Registrar IANA ID: 48
+WHOIS Server: 
+Referral URL: 
+Domain Status: clientTransferProhibited -- http://www.icann.org/epp#clientTransferProhibited
+Registrant ID:b95526b794435000
+Registrant Name:WhoisGuard Protected
+Registrant Organization:WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant City:Panama
+Registrant State/Province:Panama
+Registrant Postal Code:00000
+Registrant Country:PA
+Registrant Phone:+507.8365503
+Registrant Phone Ext: 
+Registrant Fax: +51.17057182
+Registrant Fax Ext: 
+Registrant Email:a9565015e4904a8ca5fb6b5754ea56cd.protect@whoisguard.com
+Admin ID:b95526b794435000
+Admin Name:WhoisGuard Protected
+Admin Organization:WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin City:Panama
+Admin State/Province:Panama
+Admin Postal Code:00000
+Admin Country:PA
+Admin Phone:+507.8365503
+Admin Phone Ext: 
+Admin Fax: +51.17057182
+Admin Fax Ext: 
+Admin Email:a9565015e4904a8ca5fb6b5754ea56cd.protect@whoisguard.com
+Tech ID:b95526b794435000
+Tech Name:WhoisGuard Protected
+Tech Organization:WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech City:Panama
+Tech State/Province:Panama
+Tech Postal Code:00000
+Tech Country:PA
+Tech Phone:+507.8365503
+Tech Phone Ext: 
+Tech Fax: +51.17057182
+Tech Fax Ext: 
+Tech Email:a9565015e4904a8ca5fb6b5754ea56cd.protect@whoisguard.com
+Name Server:F1G1NS1.DNSPOD.NET
+Name Server:F1G1NS2.DNSPOD.NET
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC:Unsigned
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
