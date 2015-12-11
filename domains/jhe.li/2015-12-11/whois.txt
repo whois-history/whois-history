@@ -1,0 +1,31 @@
+whois: This information is subject to an Acceptable Use Policy.
+See http://www.nic.ch/terms/aup.html
+
+
+Domain name:
+jhe.li
+
+Holder of domain name:
+Zhe Li
+Qianjin Street 2699
+CN-130012 Changchun
+China
+Contractual Language: German
+
+Technical contact:
+Zhe Li
+Qianjin Street 2699
+CN-130012 Changchun
+China
+
+Registrar:
+1API GmbH
+
+First registration date:
+2015-05-21
+
+DNSSEC:N
+
+Name servers:
+f1g1ns1.dnspod.net
+f1g1ns2.dnspod.net
