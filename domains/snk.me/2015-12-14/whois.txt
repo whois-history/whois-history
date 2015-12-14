@@ -1,0 +1,86 @@
+WHOIS TERMS & CONDITIONS: Access to .ME WHOIS information is provided to 
+assist persons in determining the contents of a domain name registration 
+record in the .ME registry database. The data in this record is provided by 
+.ME Registry for informational purposes only, and .ME Registry does not 
+guarantee its accuracy. This service is intended only for query-based 
+access. You agree that you will use this data only for lawful purposes 
+and that, under no circumstances will you use this data to: (a) allow, 
+enable, or otherwise support the transmission by e-mail, telephone, 
+facsimile, or other electronic processes of mass unsolicited, commercial 
+advertising or solicitations to entities other than the data recipient's own 
+existing customers; or (b) enable high volume, automated, electronic 
+processes that send queries or data to the systems of Registry Operator, 
+except as reasonably necessary to register domain names or modify existing 
+registrations. All rights reserved. .ME Registry reserves the right to modify 
+these terms at any time. By submitting this query, you agree to abide by this 
+policy.
+
+Domain ID:D11112118-ME
+Domain Name:SNK.ME
+Domain Create Date:23-Jan-2014 04:39:57 UTC
+Domain Last Updated Date:25-Nov-2015 13:52:48 UTC
+Domain Expiration Date:23-Jan-2017 04:39:57 UTC
+Last Transferred Date:25-Dec-2014 08:11:27 UTC
+Sponsoring Registrar:eNom Inc R32-ME (48)
+Created by:GoDaddy.com, LLC R41-ME (146)
+Last Updated by Registrar:eNom Inc R32-ME (48)
+Domain Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:d08a45d6ae86f1c5
+Registrant Name:WhoisGuard Protected
+Registrant Organization:WhoisGuard, Inc.
+Registrant Address:P.O. Box 0823-03411
+Registrant Address2:
+Registrant Address3:
+Registrant City:Panama
+Registrant State/Province:Panama
+Registrant Country/Economy:PA
+Registrant Postal Code:00000
+Registrant Phone:+507.8365503
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant E-mail:a1f2ef869b95463d83ffe05af2370777.protect@whoisguard.com
+Admin ID:d08a45d6ae86f1c5
+Admin Name:WhoisGuard Protected
+Admin Organization:WhoisGuard, Inc.
+Admin Address:P.O. Box 0823-03411
+Admin Address2:
+Admin Address3:
+Admin City:Panama
+Admin State/Province:Panama
+Admin Country/Economy:PA
+Admin Postal Code:00000
+Admin Phone:+507.8365503
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin E-mail:a1f2ef869b95463d83ffe05af2370777.protect@whoisguard.com
+Tech ID:d08a45d6ae86f1c5
+Tech Name:WhoisGuard Protected
+Tech Organization:WhoisGuard, Inc.
+Tech Address:P.O. Box 0823-03411
+Tech Address2:
+Tech Address3:
+Tech City:Panama
+Tech State/Province:Panama
+Tech Country/Economy:PA
+Tech Postal Code:00000
+Tech Phone:+507.8365503
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech E-mail:a1f2ef869b95463d83ffe05af2370777.protect@whoisguard.com
+Nameservers:F1G1NS1.DNSPOD.NET
+Nameservers:F1G1NS2.DNSPOD.NET
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+DNSSEC:Unsigned
