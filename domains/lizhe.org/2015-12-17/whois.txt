@@ -1,0 +1,60 @@
+Domain Name: LIZHE.ORG
+Domain ID: D161559464-LROR
+WHOIS Server:
+Referral URL: http://www.enom.com
+Updated Date: 2015-12-06T06:27:10Z
+Creation Date: 2011-02-20T13:44:11Z
+Registry Expiry Date: 2016-02-20T13:44:11Z
+Sponsoring Registrar: eNom, Inc.
+Sponsoring Registrar IANA ID: 48
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant ID: e6497616ad632c0c
+Registrant Name: Zhe Lee
+Registrant Organization:
+Registrant Street: Room 130, Nanyuan San Apartment
+Registrant Street: No. 2966, Qianjin Street
+Registrant City: Changchun
+Registrant State/Province: JILIN
+Registrant Postal Code: 130012
+Registrant Country: CN
+Registrant Phone: +86.43185165622
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: lizhe@lizhe.org
+Admin ID: e6497616ad632c0c
+Admin Name: Zhe Lee
+Admin Organization:
+Admin Street: Room 130, Nanyuan San Apartment
+Admin Street: No. 2966, Qianjin Street
+Admin City: Changchun
+Admin State/Province: JILIN
+Admin Postal Code: 130012
+Admin Country: CN
+Admin Phone: +86.43185165622
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: lizhe@lizhe.org
+Tech ID: e6497616ad632c0c
+Tech Name: Zhe Lee
+Tech Organization:
+Tech Street: Room 130, Nanyuan San Apartment
+Tech Street: No. 2966, Qianjin Street
+Tech City: Changchun
+Tech State/Province: JILIN
+Tech Postal Code: 130012
+Tech Country: CN
+Tech Phone: +86.43185165622
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: lizhe@lizhe.org
+Name Server: F1G1NS1.DNSPOD.NET
+Name Server: F1G1NS2.DNSPOD.NET
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2015-12-17T00:00:16Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
