@@ -1,0 +1,11 @@
+
+Domain : three.sh
+Status : Live
+Expiry : 2016-10-12
+
+NS 1   : f1g1ns1.dnspod.net
+NS 2   : f1g1ns2.dnspod.net
+
+
+Check for 'three.ac' --- http://www.nic.ac/go/whois/three.ac
+Check for 'three.io' --- http://www.nic.io/go/whois/three.io
